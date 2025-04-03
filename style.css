@@ -1,0 +1,14 @@
+.título {
+  text-align: center;
+}
+
+.pr {
+  display: flexbox;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+}
+
+.card-title {
+  text-align: center;
+}
