@@ -12,3 +12,20 @@
 .card-title {
   text-align: center;
 }
+
+.botones {
+  text-align: center;
+}
+
+.btn.btn-info.boton-turquesa {
+  background-color: #03aad6;
+  border-color: #db16fb;
+  color: white;
+}
+
+
+.btn.btn-info.boton-rosa {
+  background-color: #db16fb;
+  border-color: #03aad6;
+  color: white;
+}
